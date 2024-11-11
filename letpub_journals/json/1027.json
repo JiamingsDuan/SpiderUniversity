@@ -1,0 +1,69 @@
+{
+    "title": "Baltic Journal of Road and Bridge Engineering",
+    "ISSN": "1822-427X",
+    "IF": "0.909",
+    "self_citation": "18.40%",
+    "H_index": "17",
+    "CiteScore": "1.50",
+    "SJR": "0.259",
+    "SNIP": "0.903",
+    "CiteScoreRanking": [
+        {
+            "journal_subject": "大类：Engineering 小类：Building and Construction",
+            "journal_quarter": "Q3",
+            "journal_queue": "108 / 185",
+            "journal_rate": "41%"
+        },
+        {
+            "journal_subject": "大类：Engineering 小类：Civil and Structural Engineering",
+            "journal_quarter": "Q3",
+            "journal_queue": "212 / 318",
+            "journal_rate": "33%"
+        }
+    ],
+    "introduction": "THE JOURNAL IS DESIGNED FOR PUBLISHING PAPERS CONCERNING THE FOLLOWING AREAS OF RESEARCH:",
+    "authority_url": "http://www.bjrbe.vgtu.lt/journal.php",
+    "contribute_url": "http://www.bjrbe.vgtu.lt/callforpapers.php",
+    "OA": "Yes",
+    "communication_form": "VILNIUS GEDIMINAS TECH UNIV, SAULETEKIO AL 11, VILNIUS, LITHUANIA, LT-10223",
+    "publisher": "VILNIUS GEDIMINAS TECH UNIV, SAULETEKIO AL 11, VILNIUS, LITHUANIA, LT-10223",
+    "research_direction": "工程技术-工程：土木",
+    "region": "LITHUANIA",
+    "language": "English",
+    "period": "Quarterly",
+    "created_year": "0",
+    "articles": "0",
+    "OA_rate": "100.00%",
+    "type_research": "98.08%",
+    "sci_coverage": [
+        "Science Citation Index Expanded (SCIE)",
+        "Scopus (CiteScore)",
+        "Directory of Open Access Journals (DOAJ)"
+    ],
+    "sci_quarter": [
+        {
+            "journal_sci_subject": "ENGINEERING, CIVIL ",
+            "journal_sci_quarter": "Q4"
+        }
+    ],
+    "cas_basic_large": "工程技术 ",
+    "cas_basic_quarter": "4区",
+    "cas_basic_short": [
+        {
+            "subject_short": "ENGINEERING, CIVIL 工程：土木",
+            "subject_short_quarter": "4区"
+        }
+    ],
+    "cas_basic_top": "否",
+    "cas_basic_survey": "否",
+    "cas_upgrade_large": "工程技术 ",
+    "cas_upgrade_quarter": "4区",
+    "cas_upgrade_short": [
+        {
+            "subject_short": "ENGINEERING, CIVIL  工程：土木",
+            "subject_short_quarter": "4区"
+        }
+    ],
+    "cas_upgrade_top": "否",
+    "cas_upgrade_survey": "否"
+}

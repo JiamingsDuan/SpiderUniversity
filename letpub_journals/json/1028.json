@@ -1,0 +1,62 @@
+{
+    "title": "Baltica",
+    "ISSN": "0067-3064",
+    "IF": "0.469",
+    "self_citation": "6.60%",
+    "H_index": "15",
+    "CiteScore": "1.20",
+    "SJR": "0.242",
+    "SNIP": "0.779",
+    "CiteScoreRanking": [
+        {
+            "journal_subject": "大类：Earth and Planetary Sciences 小类：Earth and Planetary Sciences (miscellaneous)",
+            "journal_quarter": "Q3",
+            "journal_queue": "75 / 106",
+            "journal_rate": "29%"
+        }
+    ],
+    "introduction": "BALTICA is an international periodical journal on Earth sciences devoted to the Baltic countries region and the Baltic Sea problems. This edition as a Yearbook is established in 1961 by initiative of Academician Vytautas Gudelis. Since 1993, an Editor-in-Chief of the journal became Academician Algimantas Grigelis. BALTICA is published biannually (in June and December) in cooperation with geoscientists of the circum-Baltic States.",
+    "authority_url": "http://www.gamtostyrimai.lt/en/publications/listingCategory/category.1020",
+    "contribute_url": "http://www.gamtostyrimai.lt/uploads/documents/lediniai/Baltica/Information.pdf",
+    "OA": "Yes",
+    "communication_form": "INST GEOLOGY & GEOGRAPHY, SEVCENKOS STR 13, VILNIUS, LITHUANIA, LT-03223",
+    "publisher": "INST GEOLOGY & GEOGRAPHY, SEVCENKOS STR 13, VILNIUS, LITHUANIA, LT-03223",
+    "research_direction": "地学-地质学",
+    "region": "LITHUANIA",
+    "language": "English",
+    "period": "Annual",
+    "created_year": "0",
+    "articles": "0",
+    "OA_rate": "0.00%",
+    "type_research": "100.00%",
+    "sci_coverage": [
+        "Science Citation Index Expanded (SCIE)",
+        "Scopus (CiteScore)"
+    ],
+    "sci_quarter": [
+        {
+            "journal_sci_subject": "GEOLOGY ",
+            "journal_sci_quarter": "Q4"
+        }
+    ],
+    "cas_basic_large": "地学 ",
+    "cas_basic_quarter": "4区",
+    "cas_basic_short": [
+        {
+            "subject_short": "GEOLOGY 地质学",
+            "subject_short_quarter": "4区"
+        }
+    ],
+    "cas_basic_top": "否",
+    "cas_basic_survey": "否",
+    "cas_upgrade_large": "地球科学 ",
+    "cas_upgrade_quarter": "4区",
+    "cas_upgrade_short": [
+        {
+            "subject_short": "GEOLOGY  地质学",
+            "subject_short_quarter": "4区"
+        }
+    ],
+    "cas_upgrade_top": "否",
+    "cas_upgrade_survey": "否"
+}
